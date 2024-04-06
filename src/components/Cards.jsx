@@ -9,8 +9,8 @@ function Cards() {
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
         <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
           <img
-            className="w-20 mx-auto mt-[-3rem] bg-white"
-            src="https://th.bing.com/th/id/OIG.4Ub7Oy9F2ZLW4xzhpiC8?pid=ImgGn"
+            className="w-20 mx-auto mt-[-3rem] bg-white rounded-3xl"
+            src="https://images.unsplash.com/photo-1597733336794-12d05021d510?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="/"
           />
           <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
@@ -26,8 +26,8 @@ function Cards() {
         </div>
         <div className="w-full shadow-xl bg-gray-400 flex flex-col p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300">
           <img
-            className="w-20 mx-auto mt-[-3rem] bg-transparent"
-            src="https://th.bing.com/th/id/OIG.agn44eEAxEyg1tP7jXA0?pid=ImgGn"
+            className="w-20 mx-auto mt-[-3rem] bg-transparent rounded-3xl"
+            src="https://images.unsplash.com/photo-1597733336794-12d05021d510?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="/"
           />
           <h2 className="text-2xl font-bold text-center py-8">Two User</h2>
@@ -43,8 +43,8 @@ function Cards() {
         </div>
         <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
           <img
-            className=" w-20 mx-auto mt-[-3rem]"
-            src="https://th.bing.com/th/id/OIG.JmYsxMkZdyYgJ_kIl.ET?pid=ImgGn"
+            className=" w-20 mx-auto mt-[-3rem] rounded-3xl"
+            src="https://images.unsplash.com/photo-1597733336794-12d05021d510?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="/"
           />
           <h2 className="text-2xl font-bold text-center py-8">

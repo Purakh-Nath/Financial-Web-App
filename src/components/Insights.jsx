@@ -9,7 +9,7 @@ function Insights() {
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2">
         <img
           className="w-[500px] mx-auto my-4 rounded-3xl"
-          src="https://th.bing.com/th/id/OIG.5hSSbbE0ng18WMi8tTpf?w=1024&h=1024&rs=1&pid=ImgDetMain"
+          src="https://images.unsplash.com/photo-1520869562399-e772f042f422?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="/"
         />
         <div className="flex flex-col justify-center">
